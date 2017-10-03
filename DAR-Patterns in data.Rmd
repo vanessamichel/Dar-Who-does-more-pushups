@@ -35,6 +35,16 @@ In addition to who does more push ups, we will run a series of tests to show how
 # Methods
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
 
+The two variables involved are:
+
+* **position**, which is a factor variable with two values ("LINE" and "SKILL");
+* **pushups**, which is a numeric variable.
+
+Although we do not believe that position determines how many pushups one can do, we may be able to prove that one position can do more than the other. 
+
+Our variable analysis will show that we are interested in the relationship between two factor variables. Therefore, we will make box plots to examine the data graphically. 
+
+We will also want to see if any relationship we find in the data between position and pushups might also be present in the population from which the data was gathered. To investigate this inferential question, we will use  fav stats and t  tests.
 
 
 
