@@ -1,7 +1,7 @@
 ---
 title: "Who does more pushups"
-author: "your name"
-date: "March 8"
+author: "Vanessa Michel"
+date: "October 3, 2017"
 output: html_document
 ---
 
@@ -30,6 +30,7 @@ Our Research Question is:
 
   >Who does more pushups, on average: a line player or a skill player?
 
+In addition to who does more push ups, we will run a series of tests to show how significant of a difference there is between the 2 positions, if any. 
 
 # Methods
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
